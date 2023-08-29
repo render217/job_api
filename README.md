@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://quiz-app-bice-ten.vercel.app/" target="_blank">
+    <a href="https://job-api-seven.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
